@@ -1,0 +1,8 @@
+{
+  "name": "MORA Apps - SPX Logistics",
+  "description": "Integrated logistics solution for SPX XPRESS couriers and management. Features barcode scanning, proof of delivery, and realtime analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
